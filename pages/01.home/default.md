@@ -1,6 +1,7 @@
 ---
 title: Home
-git_repo_link_url: 'https://gitlab.com/paulhibbitts/demo-grav-gantry-oer-content/raw/master/pages/01.home/default.md'
+hide_git_repo_link: false
+git_repo_link_url: 'https://raw.githubusercontent.com/paulhibbitts/demo-grav-gantry-oer-content/master/pages/01.home/default.md'
 git_repo_link_text: 'View Page in Markdown'
 ---
 
