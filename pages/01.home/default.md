@@ -1,5 +1,8 @@
 ---
 title: Home
+hide_git_repo_link: false
+git_repo_link_url: 'https://raw.githubusercontent.com/paulhibbitts/demo-grav-gantry-oer-content/master/pages/01.home/default.md'
+git_repo_link_text: 'View Page in Markdown'
 ---
 
 ## Open Educational Resources (OER)
