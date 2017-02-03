@@ -1,17 +1,22 @@
 ---
 title: 'Blog Page'
-blog_url: blog
+hide_git_repo_link: false
+git_repo_link_url: 'https://github.com/paulhibbitts/demo-grav-gantry-oer-content/tree/master/pages/03.blog-page'
+git_repo_link_text: 'Edit Blog Items'
 sitemap:
     changefreq: monthly
-    priority: 1.03
 content:
     items: '@self.children'
+    leading: 0
+    columns: 2
+    limit: 5
     order:
         by: date
         dir: desc
-    limit: 5
+    show_date: false
     pagination: true
-    show_date: 0
+    url_taxonomy_filters: true
+blog_url: blog
 feed:
     description: 'Sample Blog Description'
     limit: 10
