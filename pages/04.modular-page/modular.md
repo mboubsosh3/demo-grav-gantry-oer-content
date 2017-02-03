@@ -7,7 +7,7 @@ content:
         dir: asc
 hide_git_repo_link: false
 git_repo_link_url: 'https://github.com/paulhibbitts/demo-grav-gantry-oer-content/tree/master/pages/04.modular-page'
-git_repo_link_text: 'Edit Page Items on GirtHub'
+git_repo_link_text: 'Edit Page Items on GitHub'
 body_classes: 'modular header-image fullwidth'
 onpage_menu: true
 ---
