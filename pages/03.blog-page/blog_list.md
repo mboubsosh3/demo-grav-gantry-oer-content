@@ -9,7 +9,7 @@ content:
     items: '@self.children'
     leading: 0
     columns: 2
-    limit: 5
+    limit: 10
     order:
         by: date
         dir: desc
