@@ -6,7 +6,7 @@ content:
         by: default
         dir: asc
 hide_git_repo_link: false
-git_repo_link_url: 'https://github.com/paulhibbitts/demo-grav-gantry-oer-content/tree/master/pages/04.modular-sample'
+git_repo_link_url: 'https://github.com/paulhibbitts/demo-grav-gantry-oer-content/tree/master/pages/04.modular-page'
 body_classes: 'modular header-image fullwidth'
 onpage_menu: true
 ---
