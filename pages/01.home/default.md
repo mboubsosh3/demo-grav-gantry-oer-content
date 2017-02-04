@@ -5,10 +5,6 @@ git_repo_link_url: 'https://raw.githubusercontent.com/paulhibbitts/demo-grav-gan
 git_repo_link_text: 'View Page in Markdown'
 ---
 
----
-title: Home
----
-
 ## Open Educational Resources (OER)
 
 ### What is OER?
