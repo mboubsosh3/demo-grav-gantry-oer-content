@@ -2,7 +2,7 @@
 title: 'Blog Page'
 hide_git_repo_link: false
 git_repo_link_url: 'https://github.com/paulhibbitts/demo-grav-gantry-oer-content/tree/master/pages/03.blog-page'
-git_repo_link_text: 'Edit these Blog Items'
+git_repo_link_text: 'Edit Blog Items on GitHub'
 sitemap:
     changefreq: monthly
 content:
