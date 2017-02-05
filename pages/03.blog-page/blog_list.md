@@ -1,14 +1,10 @@
 ---
 title: 'Blog Page'
 hide_git_repo_link: false
+git_repo_link_url: 'https://github.com/paulhibbitts/demo-grav-gantry-oer-content/tree/master/pages/03.blog-page'
+git_repo_link_text: 'Edit these Blog Items'
 sitemap:
     changefreq: monthly
-external_links:
-    process: true
-    title: false
-    no_follow: true
-    target: _blank
-    mode: active
 content:
     items: '@self.children'
     leading: 0
@@ -20,6 +16,12 @@ content:
     show_date: false
     pagination: true
     url_taxonomy_filters: true
+external_links:
+    process: true
+    title: false
+    no_follow: true
+    target: _blank
+    mode: active
 blog_url: blog
 feed:
     description: 'Sample Blog Description'
