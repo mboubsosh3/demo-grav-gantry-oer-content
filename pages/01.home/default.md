@@ -1,12 +1,13 @@
 ---
 title: Home
+hide_git_repo_link: false
 git_repo_link_url: 'https://raw.githubusercontent.com/paulhibbitts/demo-grav-gantry-oer-content/master/pages/01.home/default.md'
 git_repo_link_text: 'View this Page in Markdown'
 ---
 
 ## Open Educational Resources (OER)
 
-![](OER-banner-2.png)  
+![OER Banner](OER-banner-2.png)  
 
 ### What is OER?
 Open educational resources (OER) are free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes.
