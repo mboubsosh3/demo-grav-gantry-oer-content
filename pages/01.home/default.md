@@ -1,11 +1,11 @@
 ---
 title: Home
 hide_git_repo_link: false
-git_repo_link_url: 'https://raw.githubusercontent.com/paulhibbitts/demo-grav-gantry-oer-content/master/pages/01.home/default.md'
-git_repo_link_text: 'View this Page in Markdown'
 ---
 
 ## Open Educational Resources (OER)
+
+![](OER-banner-2.png)  
 
 ### What is OER?
 Open educational resources (OER) are free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes.
@@ -32,4 +32,5 @@ Open Education "...is the simple and powerful idea that the world’s knowledge 
 **[OER Commons](http://www.oercommons.org/about#about-open-educational-resources)**  
 "Open Educational Resources are teaching and learning materials that you may freely use and reuse, without charge. OER often have a Creative Commons or GNU license that state specifically how the material may be used, reused, adapted, and shared."
 
+[Image](http://openscot.net/wp-content/uploads/2014/11/OER-banner.png) by [Leicester City Council](http://openscot.net/oer/leicester-city-council-and-oer-for-schools/), available under a Creative Commons Attribution 4.0 license.  
 [Text](https://wiki.creativecommons.org/wiki/What_is_OER%3F) by [creativecommons.org](https://wiki.creativecommons.org), available under a Creative Commons Attribution 4.0 license.
